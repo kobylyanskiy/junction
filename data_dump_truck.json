@@ -1,0 +1,657 @@
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [18.75, 13.625], "timestamp": 1511615306182, "topic": "sensortag/TEMPERATURE"}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [18.74, 1009.0], "timestamp": 1511615306587, "topic": "sensortag/BAROMETER"}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.0322265625, -0.055908203125, -0.994873046875], "timestamp": 1511615306925, "topic": "sensortag/ACCELEROMETER"}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [57.72649572649573, 73.91990231990232, -545.9277167277168], "timestamp": 1511615307263, "topic": "sensortag/MAGNETOMETER"}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [4.41741943359375, -6.61468505859375, -3.63922119140625], "timestamp": 1511615307533, "topic": "sensortag/GYROSCOPE"}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.32, "timestamp": 1511615307869, "topic": "sensortag/LIGHT"}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76, "timestamp": 1511615308207, "topic": "sensortag/BATTERY"}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [18.75, 13.5625], "timestamp": 1511615308544, "topic": "sensortag/TEMPERATURE"}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [18.75, 1009.02], "timestamp": 1511615309017, "topic": "sensortag/BAROMETER"}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.185791015625, -0.09521484375, -1.167724609375], "timestamp": 1511615309288, "topic": "sensortag/ACCELEROMETER"}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [67.17264957264958, 40.48351648351648, -579.5140415140415], "timestamp": 1511615309693, "topic": "sensortag/MAGNETOMETER"}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [1.28173828125, -23.33831787109375, -0.2593994140625], "timestamp": 1511615310030, "topic": "sensortag/GYROSCOPE"}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.16, "timestamp": 1511615310299, "topic": "sensortag/LIGHT"}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76, "timestamp": 1511615310569, "topic": "sensortag/BATTERY"}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [18.78125, 13.65625], "timestamp": 1511615310907, "topic": "sensortag/TEMPERATURE"}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [18.77, 1009.06], "timestamp": 1511615311379, "topic": "sensortag/BAROMETER"}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.243896484375, -0.00244140625, -0.97802734375], "timestamp": 1511615311650, "topic": "sensortag/ACCELEROMETER"}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [75.11941391941392, 62.82442002442002, -511.1418803418803], "timestamp": 1511615311920, "topic": "sensortag/MAGNETOMETER"}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [7.45391845703125, 2.08282470703125, -25.50506591796875], "timestamp": 1511615312190, "topic": "sensortag/GYROSCOPE"}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.32, "timestamp": 1511615312730, "topic": "sensortag/LIGHT"}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76, "timestamp": 1511615313269, "topic": "sensortag/BATTERY"}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [18.8125, 12.75], "timestamp": 1511615313607, "topic": "sensortag/TEMPERATURE"}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [18.78, 1009.01], "timestamp": 1511615314012, "topic": "sensortag/BAROMETER"}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.29638671875, -0.002197265625, -1.01513671875], "timestamp": 1511615314350, "topic": "sensortag/ACCELEROMETER"}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [56.227106227106226, 66.87277167277168, -535.7318681318682], "timestamp": 1511615314620, "topic": "sensortag/MAGNETOMETER"}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [7.04193115234375, -17.852783203125, -8.59832763671875], "timestamp": 1511615314890, "topic": "sensortag/GYROSCOPE"}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.4, "timestamp": 1511615315227, "topic": "sensortag/LIGHT"}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76, "timestamp": 1511615315632, "topic": "sensortag/BATTERY"}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [18.8125, 12.65625], "timestamp": 1511615316037, "topic": "sensortag/TEMPERATURE"}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [18.79, 1009.05], "timestamp": 1511615316510, "topic": "sensortag/BAROMETER"}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.1552734375, 0.03759765625, -1.219482421875], "timestamp": 1511615317253, "topic": "sensortag/ACCELEROMETER"}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [80.36727716727717, 62.97435897435897, -518.4888888888888], "timestamp": 1511615317590, "topic": "sensortag/MAGNETOMETER"}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [11.4593505859375, -8.96453857421875, -10.1318359375], "timestamp": 1511615317860, "topic": "sensortag/GYROSCOPE"}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.32, "timestamp": 1511615318129, "topic": "sensortag/LIGHT"}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76, "timestamp": 1511615318399, "topic": "sensortag/BATTERY"}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [18.84375, 13.34375], "timestamp": 1511615318737, "topic": "sensortag/TEMPERATURE"}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [18.8, 1009.06], "timestamp": 1511615319142, "topic": "sensortag/BAROMETER"}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [-0.01513671875, -0.005615234375, -0.909912109375], "timestamp": 1511615319413, "topic": "sensortag/ACCELEROMETER"}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [76.16898656898657, 66.42295482295482, -511.1418803418803], "timestamp": 1511615319750, "topic": "sensortag/MAGNETOMETER"}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [20.33233642578125, 24.658203125, -54.0618896484375], "timestamp": 1511615320020, "topic": "sensortag/GYROSCOPE"}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.48, "timestamp": 1511615320289, "topic": "sensortag/LIGHT"}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76, "timestamp": 1511615320559, "topic": "sensortag/BATTERY"}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [18.875, 13.0625], "timestamp": 1511615320897, "topic": "sensortag/TEMPERATURE"}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [18.81, 1008.95], "timestamp": 1511615321369, "topic": "sensortag/BAROMETER"}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [1.03125, 0.041748046875, 0.512939453125], "timestamp": 1511615321640, "topic": "sensortag/ACCELEROMETER"}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [85.61514041514042, 77.66837606837606, -705.6126984126984], "timestamp": 1511615321978, "topic": "sensortag/MAGNETOMETER"}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [6.65283203125, -63.08746337890625, -0.25177001953125], "timestamp": 1511615322248, "topic": "sensortag/GYROSCOPE"}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.32, "timestamp": 1511615322517, "topic": "sensortag/LIGHT"}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76, "timestamp": 1511615322787, "topic": "sensortag/BATTERY"}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [18.875, 13.15625], "timestamp": 1511615323124, "topic": "sensortag/TEMPERATURE"}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [18.84, 1009.0], "timestamp": 1511615323529, "topic": "sensortag/BAROMETER"}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.264404296875, 0.006103515625, -1.207763671875], "timestamp": 1511615323800, "topic": "sensortag/ACCELEROMETER"}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [76.76874236874237, 63.724053724053725, -507.84322344322345], "timestamp": 1511615324070, "topic": "sensortag/MAGNETOMETER"}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [-3.31878662109375, -22.89581298828125, -50.97198486328125], "timestamp": 1511615324408, "topic": "sensortag/GYROSCOPE"}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.89, "timestamp": 1511615324744, "topic": "sensortag/LIGHT"}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76, "timestamp": 1511615325014, "topic": "sensortag/BATTERY"}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [18.90625, 13.875], "timestamp": 1511615325352, "topic": "sensortag/TEMPERATURE"}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [18.84, 1008.97], "timestamp": 1511615325824, "topic": "sensortag/BAROMETER"}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.168701171875, 0.102783203125, -0.982666015625], "timestamp": 1511615326096, "topic": "sensortag/ACCELEROMETER"}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [87.41440781440781, 62.224664224664224, -501.3958485958486], "timestamp": 1511615326433, "topic": "sensortag/MAGNETOMETER"}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [18.19610595703125, -4.49371337890625, -9.20867919921875], "timestamp": 1511615326703, "topic": "sensortag/GYROSCOPE"}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 1.29, "timestamp": 1511615326972, "topic": "sensortag/LIGHT"}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76, "timestamp": 1511615327242, "topic": "sensortag/BATTERY"}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [18.90625, 13.8125], "timestamp": 1511615327580, "topic": "sensortag/TEMPERATURE"}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [18.85, 1009.07], "timestamp": 1511615327984, "topic": "sensortag/BAROMETER"}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.206298828125, -0.227783203125, -1.090576171875], "timestamp": 1511615328255, "topic": "sensortag/ACCELEROMETER"}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [64.92356532356533, 52.778510378510376, -505.5941391941392], "timestamp": 1511615328593, "topic": "sensortag/MAGNETOMETER"}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [12.00103759765625, 4.11224365234375, -40.4510498046875], "timestamp": 1511615328863, "topic": "sensortag/GYROSCOPE"}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 2.73, "timestamp": 1511615329132, "topic": "sensortag/LIGHT"}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76, "timestamp": 1511615329402, "topic": "sensortag/BATTERY"}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [18.9375, 13.6875], "timestamp": 1511615329807, "topic": "sensortag/TEMPERATURE"}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [18.86, 1009.07], "timestamp": 1511615330212, "topic": "sensortag/BAROMETER"}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.1865234375, 0.119384765625, -1.0078125], "timestamp": 1511615330483, "topic": "sensortag/ACCELEROMETER"}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [55.17753357753357, 55.77728937728938, -515.4901098901099], "timestamp": 1511615330820, "topic": "sensortag/MAGNETOMETER"}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [6.67572021484375, -9.54437255859375, -4.50897216796875], "timestamp": 1511615331090, "topic": "sensortag/GYROSCOPE"}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 3.45, "timestamp": 1511615331359, "topic": "sensortag/LIGHT"}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76, "timestamp": 1511615331697, "topic": "sensortag/BATTERY"}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [18.9375, 13.59375], "timestamp": 1511615332034, "topic": "sensortag/TEMPERATURE"}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [18.88, 1009.05], "timestamp": 1511615332439, "topic": "sensortag/BAROMETER"}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.109619140625, -0.150390625, -0.797607421875], "timestamp": 1511615332710, "topic": "sensortag/ACCELEROMETER"}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [69.12185592185592, 49.62979242979243, -511.8915750915751], "timestamp": 1511615332980, "topic": "sensortag/MAGNETOMETER"}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [11.20758056640625, -250.0, -19.744873046875], "timestamp": 1511615333385, "topic": "sensortag/GYROSCOPE"}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 4.74, "timestamp": 1511615333722, "topic": "sensortag/LIGHT"}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76, "timestamp": 1511615333992, "topic": "sensortag/BATTERY"}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [18.9375, 13.0625], "timestamp": 1511615334329, "topic": "sensortag/TEMPERATURE"}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [18.9, 1009.04], "timestamp": 1511615334734, "topic": "sensortag/BAROMETER"}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [-0.1083984375, -0.224853515625, -1.629638671875], "timestamp": 1511615335005, "topic": "sensortag/ACCELEROMETER"}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [64.47374847374847, 59.22588522588522, -524.6363858363858], "timestamp": 1511615335275, "topic": "sensortag/MAGNETOMETER"}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [14.8468017578125, -32.64617919921875, -38.1317138671875], "timestamp": 1511615335545, "topic": "sensortag/GYROSCOPE"}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 314.96, "timestamp": 1511615335882, "topic": "sensortag/LIGHT"}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76, "timestamp": 1511615336152, "topic": "sensortag/BATTERY"}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [18.96875, 13.375], "timestamp": 1511615336489, "topic": "sensortag/TEMPERATURE"}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [18.9, 1009.04], "timestamp": 1511615336962, "topic": "sensortag/BAROMETER"}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.211669921875, -0.0595703125, -1.00146484375], "timestamp": 1511615337368, "topic": "sensortag/ACCELEROMETER"}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [48.73015873015873, 69.72161172161172, -528.8346764346765], "timestamp": 1511615337638, "topic": "sensortag/MAGNETOMETER"}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [10.3912353515625, -8.79669189453125, -9.55963134765625], "timestamp": 1511615337908, "topic": "sensortag/GYROSCOPE"}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 5.78, "timestamp": 1511615338177, "topic": "sensortag/LIGHT"}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76, "timestamp": 1511615338447, "topic": "sensortag/BATTERY"}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [18.96875, 13.625], "timestamp": 1511615338852, "topic": "sensortag/TEMPERATURE"}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [18.9, 1008.99], "timestamp": 1511615339257, "topic": "sensortag/BAROMETER"}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.228515625, -0.098876953125, -0.9697265625], "timestamp": 1511615339730, "topic": "sensortag/ACCELEROMETER"}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [66.12307692307692, 71.52087912087912, -521.6376068376068], "timestamp": 1511615340000, "topic": "sensortag/MAGNETOMETER"}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [7.22503662109375, 20.904541015625, -5.74493408203125], "timestamp": 1511615340338, "topic": "sensortag/GYROSCOPE"}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 1.04, "timestamp": 1511615340674, "topic": "sensortag/LIGHT"}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76, "timestamp": 1511615340944, "topic": "sensortag/BATTERY"}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [18.96875, 13.15625], "timestamp": 1511615341349, "topic": "sensortag/TEMPERATURE"}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [18.94, 1009.04], "timestamp": 1511615341957, "topic": "sensortag/BAROMETER"}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.128662109375, -0.135009765625, -1.01171875], "timestamp": 1511615342430, "topic": "sensortag/ACCELEROMETER"}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [76.61880341880341, 69.27179487179487, -528.9846153846154], "timestamp": 1511615342768, "topic": "sensortag/MAGNETOMETER"}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [12.82501220703125, -22.20916748046875, -50.84228515625], "timestamp": 1511615343038, "topic": "sensortag/GYROSCOPE"}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.56, "timestamp": 1511615343374, "topic": "sensortag/LIGHT"}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76, "timestamp": 1511615343712, "topic": "sensortag/BATTERY"}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [19.0, 13.375], "timestamp": 1511615344049, "topic": "sensortag/TEMPERATURE"}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [18.95, 1009.08], "timestamp": 1511615344454, "topic": "sensortag/BAROMETER"}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.42919921875, 0.162841796875, -0.864990234375], "timestamp": 1511615344928, "topic": "sensortag/ACCELEROMETER"}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [82.46642246642246, 52.628571428571426, -504.0947496947497], "timestamp": 1511615345198, "topic": "sensortag/MAGNETOMETER"}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [9.429931640625, -130.9661865234375, 0.7171630859375], "timestamp": 1511615345603, "topic": "sensortag/GYROSCOPE"}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.32, "timestamp": 1511615345939, "topic": "sensortag/LIGHT"}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76, "timestamp": 1511615346209, "topic": "sensortag/BATTERY"}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [19.0, 13.53125], "timestamp": 1511615346547, "topic": "sensortag/TEMPERATURE"}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [18.97, 1009.07], "timestamp": 1511615347087, "topic": "sensortag/BAROMETER"}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.1689453125, 0.057373046875, -1.142333984375], "timestamp": 1511615347425, "topic": "sensortag/ACCELEROMETER"}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [95.2112332112332, 60.125518925518925, -513.3909645909646], "timestamp": 1511615347695, "topic": "sensortag/MAGNETOMETER"}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [1.50299072265625, 15.38848876953125, 33.7066650390625], "timestamp": 1511615347965, "topic": "sensortag/GYROSCOPE"}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.4, "timestamp": 1511615348234, "topic": "sensortag/LIGHT"}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76, "timestamp": 1511615348504, "topic": "sensortag/BATTERY"}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [19.03125, 13.59375], "timestamp": 1511615348909, "topic": "sensortag/TEMPERATURE"}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [18.97, 1008.98], "timestamp": 1511615349315, "topic": "sensortag/BAROMETER"}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.2314453125, 0.04736328125, -0.99658203125], "timestamp": 1511615349585, "topic": "sensortag/ACCELEROMETER"}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [95.96092796092796, 59.37582417582417, -494.04884004884], "timestamp": 1511615349990, "topic": "sensortag/MAGNETOMETER"}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [6.89697265625, -3.94439697265625, -39.1387939453125], "timestamp": 1511615350260, "topic": "sensortag/GYROSCOPE"}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 1.05, "timestamp": 1511615350529, "topic": "sensortag/LIGHT"}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76, "timestamp": 1511615350799, "topic": "sensortag/BATTERY"}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [19.03125, 13.90625], "timestamp": 1511615351137, "topic": "sensortag/TEMPERATURE"}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [18.97, 1009.02], "timestamp": 1511615351542, "topic": "sensortag/BAROMETER"}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.28759765625, 0.091796875, -0.961181640625], "timestamp": 1511615351880, "topic": "sensortag/ACCELEROMETER"}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [69.27179487179487, 59.37582417582417, -513.6908424908424], "timestamp": 1511615352218, "topic": "sensortag/MAGNETOMETER"}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [21.209716796875, 50.89569091796875, -6.28662109375], "timestamp": 1511615352555, "topic": "sensortag/GYROSCOPE"}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.97, "timestamp": 1511615352892, "topic": "sensortag/LIGHT"}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76, "timestamp": 1511615353162, "topic": "sensortag/BATTERY"}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [19.03125, 14.8125], "timestamp": 1511615353499, "topic": "sensortag/TEMPERATURE"}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [19.01, 1009.08], "timestamp": 1511615354039, "topic": "sensortag/BAROMETER"}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.281982421875, 0.08203125, -0.86669921875], "timestamp": 1511615354378, "topic": "sensortag/ACCELEROMETER"}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [68.97191697191697, 52.928449328449325, -508.89279609279606], "timestamp": 1511615354648, "topic": "sensortag/MAGNETOMETER"}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [6.50787353515625, -101.9439697265625, -12.176513671875], "timestamp": 1511615354918, "topic": "sensortag/GYROSCOPE"}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.48, "timestamp": 1511615355187, "topic": "sensortag/LIGHT"}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76, "timestamp": 1511615355457, "topic": "sensortag/BATTERY"}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [19.03125, 13.65625], "timestamp": 1511615355794, "topic": "sensortag/TEMPERATURE"}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [18.99, 1009.03], "timestamp": 1511615356267, "topic": "sensortag/BAROMETER"}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.092529296875, -0.17578125, -0.76416015625], "timestamp": 1511615356538, "topic": "sensortag/ACCELEROMETER"}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [52.778510378510376, 52.778510378510376, -516.6896214896215], "timestamp": 1511615356808, "topic": "sensortag/MAGNETOMETER"}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [6.0577392578125, -9.84954833984375, -32.2723388671875], "timestamp": 1511615357078, "topic": "sensortag/GYROSCOPE"}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.08, "timestamp": 1511615357347, "topic": "sensortag/LIGHT"}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76, "timestamp": 1511615357617, "topic": "sensortag/BATTERY"}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [19.03125, 13.46875], "timestamp": 1511615357954, "topic": "sensortag/TEMPERATURE"}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [19.0, 1009.06], "timestamp": 1511615358359, "topic": "sensortag/BAROMETER"}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.401123046875, -0.052001953125, -1.0390625], "timestamp": 1511615358630, "topic": "sensortag/ACCELEROMETER"}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [52.47863247863248, 59.975579975579976, -491.2], "timestamp": 1511615358900, "topic": "sensortag/MAGNETOMETER"}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [-11.54327392578125, -48.919677734375, -8.87298583984375], "timestamp": 1511615359170, "topic": "sensortag/GYROSCOPE"}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.24, "timestamp": 1511615359439, "topic": "sensortag/LIGHT"}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76, "timestamp": 1511615359709, "topic": "sensortag/BATTERY"}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [19.0625, 13.46875], "timestamp": 1511615360047, "topic": "sensortag/TEMPERATURE"}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [19.02, 1009.03], "timestamp": 1511615360452, "topic": "sensortag/BAROMETER"}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.099853515625, 0.114990234375, -0.973388671875], "timestamp": 1511615360723, "topic": "sensortag/ACCELEROMETER"}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [72.72039072039071, 54.877655677655675, -516.9894993894993], "timestamp": 1511615360993, "topic": "sensortag/MAGNETOMETER"}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [10.41412353515625, -1.3427734375, -32.3486328125], "timestamp": 1511615361263, "topic": "sensortag/GYROSCOPE"}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.32, "timestamp": 1511615361532, "topic": "sensortag/LIGHT"}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76, "timestamp": 1511615361802, "topic": "sensortag/BATTERY"}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [19.0625, 13.5], "timestamp": 1511615362274, "topic": "sensortag/TEMPERATURE"}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [19.03, 1009.08], "timestamp": 1511615362680, "topic": "sensortag/BAROMETER"}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.1162109375, 0.072998046875, -0.89111328125], "timestamp": 1511615363018, "topic": "sensortag/ACCELEROMETER"}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [58.326251526251525, 71.22100122100122, -527.7851037851037], "timestamp": 1511615363355, "topic": "sensortag/MAGNETOMETER"}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [0.91552734375, -3.18145751953125, -39.80255126953125], "timestamp": 1511615363625, "topic": "sensortag/GYROSCOPE"}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.4, "timestamp": 1511615363894, "topic": "sensortag/LIGHT"}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76, "timestamp": 1511615364164, "topic": "sensortag/BATTERY"}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [19.09375, 13.46875], "timestamp": 1511615364502, "topic": "sensortag/TEMPERATURE"}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [19.04, 1009.04], "timestamp": 1511615364907, "topic": "sensortag/BAROMETER"}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.49560546875, 0.003173828125, -0.92626953125], "timestamp": 1511615365178, "topic": "sensortag/ACCELEROMETER"}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [71.37094017094017, 68.37216117216117, -524.3365079365079], "timestamp": 1511615365583, "topic": "sensortag/MAGNETOMETER"}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [2.55584716796875, 22.20916748046875, -1.31988525390625], "timestamp": 1511615365853, "topic": "sensortag/GYROSCOPE"}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.32, "timestamp": 1511615366122, "topic": "sensortag/LIGHT"}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76, "timestamp": 1511615366392, "topic": "sensortag/BATTERY"}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [19.09375, 13.75], "timestamp": 1511615366729, "topic": "sensortag/TEMPERATURE"}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [19.06, 1009.02], "timestamp": 1511615367134, "topic": "sensortag/BAROMETER"}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.152587890625, -0.003662109375, -0.9541015625], "timestamp": 1511615367405, "topic": "sensortag/ACCELEROMETER"}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [58.626129426129424, 72.27057387057387, -530.6339438339438], "timestamp": 1511615367675, "topic": "sensortag/MAGNETOMETER"}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [6.5460205078125, -7.19451904296875, -5.40924072265625], "timestamp": 1511615367945, "topic": "sensortag/GYROSCOPE"}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.4, "timestamp": 1511615368214, "topic": "sensortag/LIGHT"}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76, "timestamp": 1511615368484, "topic": "sensortag/BATTERY"}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [19.09375, 13.625], "timestamp": 1511615368822, "topic": "sensortag/TEMPERATURE"}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [19.06, 1009.09], "timestamp": 1511615369227, "topic": "sensortag/BAROMETER"}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.178466796875, 0.00390625, -1.0380859375], "timestamp": 1511615369498, "topic": "sensortag/ACCELEROMETER"}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [56.377045177045176, 71.37094017094017, -525.6859584859585], "timestamp": 1511615369835, "topic": "sensortag/MAGNETOMETER"}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [5.523681640625, -5.33294677734375, -5.63812255859375], "timestamp": 1511615370105, "topic": "sensortag/GYROSCOPE"}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.4, "timestamp": 1511615370374, "topic": "sensortag/LIGHT"}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76, "timestamp": 1511615370644, "topic": "sensortag/BATTERY"}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [19.125, 13.59375], "timestamp": 1511615370982, "topic": "sensortag/TEMPERATURE"}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [19.08, 1009.06], "timestamp": 1511615371387, "topic": "sensortag/BAROMETER"}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.23388671875, -0.0400390625, -0.950439453125], "timestamp": 1511615371658, "topic": "sensortag/ACCELEROMETER"}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [58.476190476190474, 70.02148962148962, -523.1369963369963], "timestamp": 1511615371928, "topic": "sensortag/MAGNETOMETER"}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [6.61468505859375, -6.46209716796875, -6.53839111328125], "timestamp": 1511615372198, "topic": "sensortag/GYROSCOPE"}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.4, "timestamp": 1511615372468, "topic": "sensortag/LIGHT"}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76, "timestamp": 1511615372737, "topic": "sensortag/BATTERY"}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [19.125, 13.625], "timestamp": 1511615373074, "topic": "sensortag/TEMPERATURE"}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [19.1, 1009.08], "timestamp": 1511615373479, "topic": "sensortag/BAROMETER"}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.1572265625, -0.01025390625, -0.981689453125], "timestamp": 1511615373885, "topic": "sensortag/ACCELEROMETER"}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [59.37582417582417, 66.87277167277168, -526.1357753357753], "timestamp": 1511615374155, "topic": "sensortag/MAGNETOMETER"}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [6.18743896484375, -5.37872314453125, -6.317138671875], "timestamp": 1511615374425, "topic": "sensortag/GYROSCOPE"}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.4, "timestamp": 1511615374694, "topic": "sensortag/LIGHT"}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76, "timestamp": 1511615374964, "topic": "sensortag/BATTERY"}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [19.125, 13.65625], "timestamp": 1511615375302, "topic": "sensortag/TEMPERATURE"}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [19.11, 1009.07], "timestamp": 1511615375707, "topic": "sensortag/BAROMETER"}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.185546875, 0.030029296875, -1.03369140625], "timestamp": 1511615375978, "topic": "sensortag/ACCELEROMETER"}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [58.176312576312576, 70.62124542124542, -524.9362637362638], "timestamp": 1511615376248, "topic": "sensortag/MAGNETOMETER"}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [6.62994384765625, -6.41632080078125, -5.31005859375], "timestamp": 1511615376518, "topic": "sensortag/GYROSCOPE"}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.4, "timestamp": 1511615376787, "topic": "sensortag/LIGHT"}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76, "timestamp": 1511615377192, "topic": "sensortag/BATTERY"}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [19.15625, 13.59375], "timestamp": 1511615377529, "topic": "sensortag/TEMPERATURE"}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [19.12, 1009.06], "timestamp": 1511615377934, "topic": "sensortag/BAROMETER"}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.15869140625, 0.017822265625, -1.015869140625], "timestamp": 1511615378205, "topic": "sensortag/ACCELEROMETER"}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [59.67570207570208, 70.47130647130646, -526.1357753357753], "timestamp": 1511615378475, "topic": "sensortag/MAGNETOMETER"}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [6.18743896484375, -5.4168701171875, -5.48553466796875], "timestamp": 1511615378745, "topic": "sensortag/GYROSCOPE"}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.4, "timestamp": 1511615379014, "topic": "sensortag/LIGHT"}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76, "timestamp": 1511615379284, "topic": "sensortag/BATTERY"}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [19.15625, 13.78125], "timestamp": 1511615379622, "topic": "sensortag/TEMPERATURE"}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [19.13, 1009.09], "timestamp": 1511615380027, "topic": "sensortag/BAROMETER"}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.34814453125, 0.05029296875, -0.88037109375], "timestamp": 1511615380365, "topic": "sensortag/ACCELEROMETER"}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [55.32747252747252, 71.07106227106227, -525.6859584859585], "timestamp": 1511615380635, "topic": "sensortag/MAGNETOMETER"}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [5.95855712890625, -5.16510009765625, -7.7667236328125], "timestamp": 1511615380905, "topic": "sensortag/GYROSCOPE"}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.24, "timestamp": 1511615381174, "topic": "sensortag/LIGHT"}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76, "timestamp": 1511615381444, "topic": "sensortag/BATTERY"}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [19.1875, 12.875], "timestamp": 1511615381782, "topic": "sensortag/TEMPERATURE"}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [19.14, 1009.04], "timestamp": 1511615382187, "topic": "sensortag/BAROMETER"}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.2734375, 0.030517578125, -0.98583984375], "timestamp": 1511615382458, "topic": "sensortag/ACCELEROMETER"}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [68.37216117216117, 68.82197802197803, -514.2905982905983], "timestamp": 1511615382728, "topic": "sensortag/MAGNETOMETER"}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [2.685546875, 3.57818603515625, -8.0108642578125], "timestamp": 1511615382998, "topic": "sensortag/GYROSCOPE"}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.24, "timestamp": 1511615383267, "topic": "sensortag/LIGHT"}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76, "timestamp": 1511615383537, "topic": "sensortag/BATTERY"}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [19.1875, 12.875], "timestamp": 1511615383874, "topic": "sensortag/TEMPERATURE"}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [19.15, 1009.07], "timestamp": 1511615384280, "topic": "sensortag/BAROMETER"}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.072021484375, 0.07861328125, -0.955810546875], "timestamp": 1511615384550, "topic": "sensortag/ACCELEROMETER"}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [101.80854700854701, 63.873992673992674, -517.7391941391941], "timestamp": 1511615384888, "topic": "sensortag/MAGNETOMETER"}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [7.1868896484375, -0.90789794921875, 0.7476806640625], "timestamp": 1511615385158, "topic": "sensortag/GYROSCOPE"}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.48, "timestamp": 1511615385427, "topic": "sensortag/LIGHT"}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76, "timestamp": 1511615385697, "topic": "sensortag/BATTERY"}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [19.21875, 13.53125], "timestamp": 1511615386035, "topic": "sensortag/TEMPERATURE"}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [19.16, 1009.0], "timestamp": 1511615386440, "topic": "sensortag/BAROMETER"}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.091064453125, 0.08984375, -0.935546875], "timestamp": 1511615386710, "topic": "sensortag/ACCELEROMETER"}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [93.41196581196581, 75.41929181929181, -511.74163614163615], "timestamp": 1511615386980, "topic": "sensortag/MAGNETOMETER"}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [26.37481689453125, 151.37481689453125, -28.16009521484375], "timestamp": 1511615387250, "topic": "sensortag/GYROSCOPE"}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.48, "timestamp": 1511615387519, "topic": "sensortag/LIGHT"}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76, "timestamp": 1511615387789, "topic": "sensortag/BATTERY"}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [19.25, 13.4375], "timestamp": 1511615388127, "topic": "sensortag/TEMPERATURE"}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [19.19, 1009.01], "timestamp": 1511615388599, "topic": "sensortag/BAROMETER"}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [1.32861328125, 0.39306640625, -0.400146484375], "timestamp": 1511615388938, "topic": "sensortag/ACCELEROMETER"}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [87.11452991452991, 59.07594627594627, -512.341391941392], "timestamp": 1511615389208, "topic": "sensortag/MAGNETOMETER"}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [18.463134765625, -10.9405517578125, -40.58074951171875], "timestamp": 1511615389478, "topic": "sensortag/GYROSCOPE"}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.48, "timestamp": 1511615389747, "topic": "sensortag/LIGHT"}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76, "timestamp": 1511615390017, "topic": "sensortag/BATTERY"}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [19.25, 13.65625], "timestamp": 1511615390354, "topic": "sensortag/TEMPERATURE"}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [19.19, 1009.0], "timestamp": 1511615390895, "topic": "sensortag/BAROMETER"}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.0244140625, 0.0400390625, -1.00244140625], "timestamp": 1511615391300, "topic": "sensortag/ACCELEROMETER"}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [100.15921855921856, 54.727716727716725, -490.3003663003663], "timestamp": 1511615391638, "topic": "sensortag/MAGNETOMETER"}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [19.56939697265625, 19.3023681640625, -45.0897216796875], "timestamp": 1511615391908, "topic": "sensortag/GYROSCOPE"}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 1.77, "timestamp": 1511615392177, "topic": "sensortag/LIGHT"}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76, "timestamp": 1511615392649, "topic": "sensortag/BATTERY"}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [19.25, 15.3125], "timestamp": 1511615392987, "topic": "sensortag/TEMPERATURE"}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [19.21, 1009.03], "timestamp": 1511615394000, "topic": "sensortag/BAROMETER"}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [-0.0703125, 0.0537109375, -1.3564453125], "timestamp": 1511615394338, "topic": "sensortag/ACCELEROMETER"}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [73.76996336996336, 60.275457875457874, -505.2942612942613], "timestamp": 1511615394743, "topic": "sensortag/MAGNETOMETER"}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [2.78472900390625, -10.61248779296875, -7.2021484375], "timestamp": 1511615395283, "topic": "sensortag/GYROSCOPE"}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 2.25, "timestamp": 1511615395552, "topic": "sensortag/LIGHT"}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76, "timestamp": 1511615395889, "topic": "sensortag/BATTERY"}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [19.25, 14.40625], "timestamp": 1511615396227, "topic": "sensortag/TEMPERATURE"}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [19.23, 1009.06], "timestamp": 1511615397104, "topic": "sensortag/BAROMETER"}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.1005859375, 0.00830078125, -1.0087890625], "timestamp": 1511615397375, "topic": "sensortag/ACCELEROMETER"}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [66.27301587301586, 69.57167277167277, -537.3811965811966], "timestamp": 1511615397645, "topic": "sensortag/MAGNETOMETER"}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [7.14111328125, -6.08062744140625, -6.195068359375], "timestamp": 1511615397915, "topic": "sensortag/GYROSCOPE"}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 4.66, "timestamp": 1511615398184, "topic": "sensortag/LIGHT"}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76, "timestamp": 1511615398454, "topic": "sensortag/BATTERY"}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [19.25, 14.1875], "timestamp": 1511615398860, "topic": "sensortag/TEMPERATURE"}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [19.23, 1009.07], "timestamp": 1511615399535, "topic": "sensortag/BAROMETER"}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.390380859375, 0.03125, -0.714599609375], "timestamp": 1511615399941, "topic": "sensortag/ACCELEROMETER"}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [61.624908424908426, 35.985347985347985, -529.4344322344322], "timestamp": 1511615400345, "topic": "sensortag/MAGNETOMETER"}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [23.70452880859375, 17.4713134765625, -69.39697265625], "timestamp": 1511615400615, "topic": "sensortag/GYROSCOPE"}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 84.08, "timestamp": 1511615401087, "topic": "sensortag/LIGHT"}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76, "timestamp": 1511615401357, "topic": "sensortag/BATTERY"}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [19.28125, 13.46875], "timestamp": 1511615401762, "topic": "sensortag/TEMPERATURE"}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [19.25, 1009.1], "timestamp": 1511615402235, "topic": "sensortag/BAROMETER"}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.244384765625, -0.035888671875, -1.1240234375], "timestamp": 1511615402775, "topic": "sensortag/ACCELEROMETER"}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [73.76996336996336, 74.96947496947497, -527.6351648351648], "timestamp": 1511615403180, "topic": "sensortag/MAGNETOMETER"}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [9.21630859375, -6.2103271484375, -8.93402099609375], "timestamp": 1511615403653, "topic": "sensortag/GYROSCOPE"}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 1.2, "timestamp": 1511615404124, "topic": "sensortag/LIGHT"}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76, "timestamp": 1511615404462, "topic": "sensortag/BATTERY"}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [19.28125, 13.125], "timestamp": 1511615404799, "topic": "sensortag/TEMPERATURE"}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [19.26, 1009.03], "timestamp": 1511615405205, "topic": "sensortag/BAROMETER"}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.290283203125, -0.14501953125, -0.97265625], "timestamp": 1511615405678, "topic": "sensortag/ACCELEROMETER"}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [84.56556776556776, 68.37216117216117, -513.0910866910866], "timestamp": 1511615406015, "topic": "sensortag/MAGNETOMETER"}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [6.5765380859375, 2.81524658203125, -38.90228271484375], "timestamp": 1511615406420, "topic": "sensortag/GYROSCOPE"}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 1.04, "timestamp": 1511615406824, "topic": "sensortag/LIGHT"}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76, "timestamp": 1511615407163, "topic": "sensortag/BATTERY"}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [19.3125, 13.71875], "timestamp": 1511615407499, "topic": "sensortag/TEMPERATURE"}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [19.28, 1009.05], "timestamp": 1511615408310, "topic": "sensortag/BAROMETER"}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.2353515625, 0.128173828125, -1.034912109375], "timestamp": 1511615408918, "topic": "sensortag/ACCELEROMETER"}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [93.86178266178266, 71.22100122100122, -511.29181929181925], "timestamp": 1511615409188, "topic": "sensortag/MAGNETOMETER"}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [-1.40380859375, 10.7421875, -4.44793701171875], "timestamp": 1511615409458, "topic": "sensortag/GYROSCOPE"}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.56, "timestamp": 1511615409727, "topic": "sensortag/LIGHT"}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76, "timestamp": 1511615410132, "topic": "sensortag/BATTERY"}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [19.34375, 14.0625], "timestamp": 1511615410470, "topic": "sensortag/TEMPERATURE"}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [19.3, 1009.02], "timestamp": 1511615410942, "topic": "sensortag/BAROMETER"}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.14404296875, -0.093994140625, -1.037109375], "timestamp": 1511615411348, "topic": "sensortag/ACCELEROMETER"}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [80.81709401709402, 67.47252747252747, -568.2686202686202], "timestamp": 1511615411618, "topic": "sensortag/MAGNETOMETER"}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [6.40106201171875, -30.517578125, -49.72076416015625], "timestamp": 1511615412225, "topic": "sensortag/GYROSCOPE"}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.48, "timestamp": 1511615412562, "topic": "sensortag/LIGHT"}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76, "timestamp": 1511615412967, "topic": "sensortag/BATTERY"}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [19.34375, 13.71875], "timestamp": 1511615413372, "topic": "sensortag/TEMPERATURE"}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [19.32, 1009.03], "timestamp": 1511615413980, "topic": "sensortag/BAROMETER"}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.112060546875, 0.06982421875, -1.27490234375], "timestamp": 1511615414318, "topic": "sensortag/ACCELEROMETER"}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [102.10842490842491, 56.676923076923075, -491.4998778998779], "timestamp": 1511615414723, "topic": "sensortag/MAGNETOMETER"}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [2.716064453125, -14.01519775390625, -40.58074951171875], "timestamp": 1511615415060, "topic": "sensortag/GYROSCOPE"}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 1.29, "timestamp": 1511615415329, "topic": "sensortag/LIGHT"}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76, "timestamp": 1511615415599, "topic": "sensortag/BATTERY"}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [19.375, 14.34375], "timestamp": 1511615416005, "topic": "sensortag/TEMPERATURE"}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [19.32, 1009.04], "timestamp": 1511615416613, "topic": "sensortag/BAROMETER"}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.117919921875, 0.050048828125, -1.159912109375], "timestamp": 1511615416883, "topic": "sensortag/ACCELEROMETER"}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [72.87032967032967, 47.68058608058608, -499.2967032967033], "timestamp": 1511615417423, "topic": "sensortag/MAGNETOMETER"}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [9.063720703125, -12.847900390625, -12.725830078125], "timestamp": 1511615418030, "topic": "sensortag/GYROSCOPE"}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.5700000000000001, "timestamp": 1511615418367, "topic": "sensortag/LIGHT"}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76, "timestamp": 1511615418840, "topic": "sensortag/BATTERY"}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [19.375, 14.625], "timestamp": 1511615419582, "topic": "sensortag/TEMPERATURE"}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [19.34, 1009.02], "timestamp": 1511615419987, "topic": "sensortag/BAROMETER"}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.113037109375, 0.029052734375, -0.966552734375], "timestamp": 1511615420325, "topic": "sensortag/ACCELEROMETER"}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [73.47008547008546, 54.577777777777776, -501.09597069597066], "timestamp": 1511615420730, "topic": "sensortag/MAGNETOMETER"}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [6.98089599609375, -4.93621826171875, -5.31005859375], "timestamp": 1511615421135, "topic": "sensortag/GYROSCOPE"}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.73, "timestamp": 1511615421404, "topic": "sensortag/LIGHT"}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76, "timestamp": 1511615421675, "topic": "sensortag/BATTERY"}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [19.375, 14.5], "timestamp": 1511615422013, "topic": "sensortag/TEMPERATURE"}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [19.36, 1009.05], "timestamp": 1511615422418, "topic": "sensortag/BAROMETER"}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.12744140625, 0.03466796875, -0.9853515625], "timestamp": 1511615422755, "topic": "sensortag/ACCELEROMETER"}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [73.62002442002442, 53.67814407814408, -501.3958485958486], "timestamp": 1511615423025, "topic": "sensortag/MAGNETOMETER"}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [5.04302978515625, -5.340576171875, -6.43157958984375], "timestamp": 1511615423295, "topic": "sensortag/GYROSCOPE"}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.73, "timestamp": 1511615423564, "topic": "sensortag/LIGHT"}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76, "timestamp": 1511615423970, "topic": "sensortag/BATTERY"}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [19.375, 14.375], "timestamp": 1511615424375, "topic": "sensortag/TEMPERATURE"}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [19.35, 1009.1], "timestamp": 1511615424982, "topic": "sensortag/BAROMETER"}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.162353515625, 0.052978515625, -1.018798828125], "timestamp": 1511615425455, "topic": "sensortag/ACCELEROMETER"}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [74.66959706959706, 57.57655677655677, -504.3946275946276], "timestamp": 1511615425928, "topic": "sensortag/MAGNETOMETER"}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [6.20269775390625, -7.10296630859375, -6.20269775390625], "timestamp": 1511615426333, "topic": "sensortag/GYROSCOPE"}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.8, "timestamp": 1511615426602, "topic": "sensortag/LIGHT"}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76, "timestamp": 1511615427007, "topic": "sensortag/BATTERY"}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [19.375, 14.3125], "timestamp": 1511615427345, "topic": "sensortag/TEMPERATURE"}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [19.36, 1009.01], "timestamp": 1511615427750, "topic": "sensortag/BAROMETER"}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.10986328125, 0.052978515625, -0.984375], "timestamp": 1511615428020, "topic": "sensortag/ACCELEROMETER"}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [77.51843711843712, 55.77728937728938, -504.0947496947497], "timestamp": 1511615428425, "topic": "sensortag/MAGNETOMETER"}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [6.75201416015625, -6.26373291015625, -6.81304931640625], "timestamp": 1511615428695, "topic": "sensortag/GYROSCOPE"}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.8, "timestamp": 1511615428964, "topic": "sensortag/LIGHT"}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76, "timestamp": 1511615429302, "topic": "sensortag/BATTERY"}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [19.375, 14.6875], "timestamp": 1511615429910, "topic": "sensortag/TEMPERATURE"}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [19.36, 1009.06], "timestamp": 1511615430517, "topic": "sensortag/BAROMETER"}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.078369140625, 0.001953125, -1.01220703125], "timestamp": 1511615431125, "topic": "sensortag/ACCELEROMETER"}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [73.91990231990232, 56.227106227106226, -499.2967032967033], "timestamp": 1511615431463, "topic": "sensortag/MAGNETOMETER"}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [6.04248046875, -5.79833984375, -3.9520263671875], "timestamp": 1511615431800, "topic": "sensortag/GYROSCOPE"}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.65, "timestamp": 1511615432137, "topic": "sensortag/LIGHT"}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76, "timestamp": 1511615432677, "topic": "sensortag/BATTERY"}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [19.375, 14.65625], "timestamp": 1511615433960, "topic": "sensortag/TEMPERATURE"}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [19.38, 1009.02], "timestamp": 1511615434567, "topic": "sensortag/BAROMETER"}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [19.3125, 13.59375], "timestamp": 1511615450532, "topic": "sensortag/TEMPERATURE"}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [19.38, 1009.03], "timestamp": 1511615450937, "topic": "sensortag/BAROMETER"}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.32763671875, -0.093505859375, -0.8916015625], "timestamp": 1511615451410, "topic": "sensortag/ACCELEROMETER"}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [0.0, 0.0, 0.0], "timestamp": 1511615451748, "topic": "sensortag/MAGNETOMETER"}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [0.0, 0.0, 0.0], "timestamp": 1511615452085, "topic": "sensortag/GYROSCOPE"}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.32, "timestamp": 1511615452355, "topic": "sensortag/LIGHT"}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76, "timestamp": 1511615452692, "topic": "sensortag/BATTERY"}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [19.3125, 13.1875], "timestamp": 1511615453030, "topic": "sensortag/TEMPERATURE"}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [19.37, 1009.0], "timestamp": 1511615453502, "topic": "sensortag/BAROMETER"}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.259765625, 0.01513671875, -0.9287109375], "timestamp": 1511615453841, "topic": "sensortag/ACCELEROMETER"}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [0.0, 0.0, 0.0], "timestamp": 1511615454178, "topic": "sensortag/MAGNETOMETER"}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [0.0, 0.0, 0.0], "timestamp": 1511615454448, "topic": "sensortag/GYROSCOPE"}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.4, "timestamp": 1511615454717, "topic": "sensortag/LIGHT"}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76, "timestamp": 1511615455054, "topic": "sensortag/BATTERY"}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [19.3125, 13.46875], "timestamp": 1511615455392, "topic": "sensortag/TEMPERATURE"}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [19.36, 1009.05], "timestamp": 1511615455865, "topic": "sensortag/BAROMETER"}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.215576171875, 0.066162109375, -0.957275390625], "timestamp": 1511615456136, "topic": "sensortag/ACCELEROMETER"}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [0.0, 0.0, 0.0], "timestamp": 1511615456473, "topic": "sensortag/MAGNETOMETER"}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [0.0, 0.0, 0.0], "timestamp": 1511615456743, "topic": "sensortag/GYROSCOPE"}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.32, "timestamp": 1511615457012, "topic": "sensortag/LIGHT"}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76, "timestamp": 1511615457282, "topic": "sensortag/BATTERY"}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [19.3125, 13.59375], "timestamp": 1511615457755, "topic": "sensortag/TEMPERATURE"}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [19.37, 1009.01], "timestamp": 1511615458362, "topic": "sensortag/BAROMETER"}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.37158203125, 0.086669921875, -0.8916015625], "timestamp": 1511615458700, "topic": "sensortag/ACCELEROMETER"}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [0.0, 0.0, 0.0], "timestamp": 1511615459105, "topic": "sensortag/MAGNETOMETER"}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [0.0, 0.0, 0.0], "timestamp": 1511615459376, "topic": "sensortag/GYROSCOPE"}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.56, "timestamp": 1511615459645, "topic": "sensortag/LIGHT"}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76, "timestamp": 1511615459915, "topic": "sensortag/BATTERY"}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [19.3125, 13.375], "timestamp": 1511615460252, "topic": "sensortag/TEMPERATURE"}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [19.38, 1009.08], "timestamp": 1511615460657, "topic": "sensortag/BAROMETER"}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.27001953125, 0.087158203125, -0.83154296875], "timestamp": 1511615460928, "topic": "sensortag/ACCELEROMETER"}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [0.0, 0.0, 0.0], "timestamp": 1511615461198, "topic": "sensortag/MAGNETOMETER"}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [0.0, 0.0, 0.0], "timestamp": 1511615461468, "topic": "sensortag/GYROSCOPE"}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.4, "timestamp": 1511615461805, "topic": "sensortag/LIGHT"}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76, "timestamp": 1511615462075, "topic": "sensortag/BATTERY"}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [19.3125, 13.5625], "timestamp": 1511615462412, "topic": "sensortag/TEMPERATURE"}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [19.36, 1009.0], "timestamp": 1511615462885, "topic": "sensortag/BAROMETER"}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.179931640625, 0.100830078125, -1.005859375], "timestamp": 1511615463156, "topic": "sensortag/ACCELEROMETER"}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [0.0, 0.0, 0.0], "timestamp": 1511615463493, "topic": "sensortag/MAGNETOMETER"}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [0.0, 0.0, 0.0], "timestamp": 1511615463763, "topic": "sensortag/GYROSCOPE"}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.4, "timestamp": 1511615464100, "topic": "sensortag/LIGHT"}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76, "timestamp": 1511615464370, "topic": "sensortag/BATTERY"}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [19.3125, 13.65625], "timestamp": 1511615464775, "topic": "sensortag/TEMPERATURE"}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [19.37, 1009.04], "timestamp": 1511615465180, "topic": "sensortag/BAROMETER"}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [-0.033935546875, -0.07421875, -0.681884765625], "timestamp": 1511615465451, "topic": "sensortag/ACCELEROMETER"}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [0.0, 0.0, 0.0], "timestamp": 1511615465721, "topic": "sensortag/MAGNETOMETER"}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [0.0, 0.0, 0.0], "timestamp": 1511615465991, "topic": "sensortag/GYROSCOPE"}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 1.37, "timestamp": 1511615466260, "topic": "sensortag/LIGHT"}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76, "timestamp": 1511615466732, "topic": "sensortag/BATTERY"}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [19.3125, 13.875], "timestamp": 1511615467070, "topic": "sensortag/TEMPERATURE"}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [19.37, 1009.05], "timestamp": 1511615467475, "topic": "sensortag/BAROMETER"}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.093505859375, 0.1162109375, -0.953369140625], "timestamp": 1511615467881, "topic": "sensortag/ACCELEROMETER"}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [0.0, 0.0, 0.0], "timestamp": 1511615468285, "topic": "sensortag/MAGNETOMETER"}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [0.0, 0.0, 0.0], "timestamp": 1511615468623, "topic": "sensortag/GYROSCOPE"}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 1.2, "timestamp": 1511615468960, "topic": "sensortag/LIGHT"}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76, "timestamp": 1511615469230, "topic": "sensortag/BATTERY"}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [19.3125, 14.6875], "timestamp": 1511615469635, "topic": "sensortag/TEMPERATURE"}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [19.38, 1009.1], "timestamp": 1511615470107, "topic": "sensortag/BAROMETER"}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [-0.1923828125, -0.414306640625, -0.9365234375], "timestamp": 1511615470378, "topic": "sensortag/ACCELEROMETER"}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [0.0, 0.0, 0.0], "timestamp": 1511615470648, "topic": "sensortag/MAGNETOMETER"}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [0.0, 0.0, 0.0], "timestamp": 1511615470918, "topic": "sensortag/GYROSCOPE"}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.32, "timestamp": 1511615471187, "topic": "sensortag/LIGHT"}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76, "timestamp": 1511615471457, "topic": "sensortag/BATTERY"}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [19.28125, 14.09375], "timestamp": 1511615471795, "topic": "sensortag/TEMPERATURE"}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [19.37, 1009.11], "timestamp": 1511615472200, "topic": "sensortag/BAROMETER"}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.217529296875, -0.183837890625, -0.8076171875], "timestamp": 1511615472471, "topic": "sensortag/ACCELEROMETER"}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [0.0, 0.0, 0.0], "timestamp": 1511615472741, "topic": "sensortag/MAGNETOMETER"}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [0.0, 0.0, 0.0], "timestamp": 1511615473011, "topic": "sensortag/GYROSCOPE"}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.24, "timestamp": 1511615473280, "topic": "sensortag/LIGHT"}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76, "timestamp": 1511615473617, "topic": "sensortag/BATTERY"}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [19.28125, 14.34375], "timestamp": 1511615473955, "topic": "sensortag/TEMPERATURE"}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [19.38, 1009.02], "timestamp": 1511615474360, "topic": "sensortag/BAROMETER"}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.104736328125, 0.03466796875, -1.055908203125], "timestamp": 1511615474631, "topic": "sensortag/ACCELEROMETER"}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [0.0, 0.0, 0.0], "timestamp": 1511615474900, "topic": "sensortag/MAGNETOMETER"}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [0.0, 0.0, 0.0], "timestamp": 1511615475171, "topic": "sensortag/GYROSCOPE"}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.48, "timestamp": 1511615475507, "topic": "sensortag/LIGHT"}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76, "timestamp": 1511615475777, "topic": "sensortag/BATTERY"}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [19.28125, 12.09375], "timestamp": 1511615476115, "topic": "sensortag/TEMPERATURE"}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [19.37, 1009.04], "timestamp": 1511615476655, "topic": "sensortag/BAROMETER"}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.176513671875, 0.029052734375, -0.95556640625], "timestamp": 1511615476925, "topic": "sensortag/ACCELEROMETER"}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [0.0, 0.0, 0.0], "timestamp": 1511615477195, "topic": "sensortag/MAGNETOMETER"}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [0.0, 0.0, 0.0], "timestamp": 1511615477533, "topic": "sensortag/GYROSCOPE"}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.32, "timestamp": 1511615477802, "topic": "sensortag/LIGHT"}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76, "timestamp": 1511615478207, "topic": "sensortag/BATTERY"}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [19.28125, 13.21875], "timestamp": 1511615478545, "topic": "sensortag/TEMPERATURE"}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [19.37, 1009.03], "timestamp": 1511615479152, "topic": "sensortag/BAROMETER"}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.25927734375, 0.01953125, -0.921875], "timestamp": 1511615479491, "topic": "sensortag/ACCELEROMETER"}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [0.0, 0.0, 0.0], "timestamp": 1511615479963, "topic": "sensortag/MAGNETOMETER"}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [0.0, 0.0, 0.0], "timestamp": 1511615480233, "topic": "sensortag/GYROSCOPE"}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.4, "timestamp": 1511615480570, "topic": "sensortag/LIGHT"}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76, "timestamp": 1511615480840, "topic": "sensortag/BATTERY"}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [19.28125, 13.5], "timestamp": 1511615481245, "topic": "sensortag/TEMPERATURE"}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [19.36, 1009.09], "timestamp": 1511615481852, "topic": "sensortag/BAROMETER"}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.25830078125, 0.0390625, -0.973388671875], "timestamp": 1511615482191, "topic": "sensortag/ACCELEROMETER"}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [0.0, 0.0, 0.0], "timestamp": 1511615482663, "topic": "sensortag/MAGNETOMETER"}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [0.0, 0.0, 0.0], "timestamp": 1511615482933, "topic": "sensortag/GYROSCOPE"}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.4, "timestamp": 1511615483202, "topic": "sensortag/LIGHT"}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76, "timestamp": 1511615483675, "topic": "sensortag/BATTERY"}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [19.28125, 13.65625], "timestamp": 1511615484485, "topic": "sensortag/TEMPERATURE"}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [19.28125, 14.65625], "timestamp": 1511615500689, "topic": "sensortag/TEMPERATURE"}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [19.38, 1009.1], "timestamp": 1511615501161, "topic": "sensortag/BAROMETER"}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.170166015625, 0.03515625, -0.97265625], "timestamp": 1511615501634, "topic": "sensortag/ACCELEROMETER"}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [58.326251526251525, 50.829304029304026, -505.4442002442002], "timestamp": 1511615501904, "topic": "sensortag/MAGNETOMETER"}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [11.86370849609375, 3.19671630859375, -41.7938232421875], "timestamp": 1511615502174, "topic": "sensortag/GYROSCOPE"}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.24, "timestamp": 1511615502512, "topic": "sensortag/LIGHT"}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76, "timestamp": 1511615502848, "topic": "sensortag/BATTERY"}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [19.28125, 13.71875], "timestamp": 1511615503187, "topic": "sensortag/TEMPERATURE"}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [19.39, 1009.03], "timestamp": 1511615503591, "topic": "sensortag/BAROMETER"}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.140625, -0.00732421875, -0.978759765625], "timestamp": 1511615504064, "topic": "sensortag/ACCELEROMETER"}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [56.676923076923075, 67.47252747252747, -512.9411477411477], "timestamp": 1511615504334, "topic": "sensortag/MAGNETOMETER"}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [9.307861328125, -0.26702880859375, -8.44573974609375], "timestamp": 1511615504604, "topic": "sensortag/GYROSCOPE"}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.72, "timestamp": 1511615504873, "topic": "sensortag/LIGHT"}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76, "timestamp": 1511615505278, "topic": "sensortag/BATTERY"}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [19.25, 13.75], "timestamp": 1511615505616, "topic": "sensortag/TEMPERATURE"}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [19.37, 1009.08], "timestamp": 1511615506089, "topic": "sensortag/BAROMETER"}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.2451171875, 0.06494140625, -0.939697265625], "timestamp": 1511615506359, "topic": "sensortag/ACCELEROMETER"}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [67.77240537240537, 67.77240537240537, -520.4380952380952], "timestamp": 1511615506629, "topic": "sensortag/MAGNETOMETER"}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [6.6375732421875, -10.8795166015625, -4.12750244140625], "timestamp": 1511615506899, "topic": "sensortag/GYROSCOPE"}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.32, "timestamp": 1511615507303, "topic": "sensortag/LIGHT"}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76, "timestamp": 1511615507573, "topic": "sensortag/BATTERY"}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [19.28125, 13.75], "timestamp": 1511615507978, "topic": "sensortag/TEMPERATURE"}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [19.38, 1009.09], "timestamp": 1511615508384, "topic": "sensortag/BAROMETER"}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.219482421875, -0.05615234375, -1.003662109375], "timestamp": 1511615508654, "topic": "sensortag/ACCELEROMETER"}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [66.87277167277168, 61.624908424908426, -493.44908424908425], "timestamp": 1511615508924, "topic": "sensortag/MAGNETOMETER"}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [4.37164306640625, -2.78472900390625, -4.8065185546875], "timestamp": 1511615509194, "topic": "sensortag/GYROSCOPE"}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.4, "timestamp": 1511615509464, "topic": "sensortag/LIGHT"}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76, "timestamp": 1511615509868, "topic": "sensortag/BATTERY"}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [19.28125, 13.65625], "timestamp": 1511615510342, "topic": "sensortag/TEMPERATURE"}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [19.38, 1009.08], "timestamp": 1511615510814, "topic": "sensortag/BAROMETER"}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.138916015625, 0.0224609375, -1.00830078125], "timestamp": 1511615511219, "topic": "sensortag/ACCELEROMETER"}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [66.72283272283272, 62.37460317460317, -506.34383394383394], "timestamp": 1511615511759, "topic": "sensortag/MAGNETOMETER"}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [5.13458251953125, -4.425048828125, -8.331298828125], "timestamp": 1511615512029, "topic": "sensortag/GYROSCOPE"}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.4, "timestamp": 1511615512298, "topic": "sensortag/LIGHT"}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76, "timestamp": 1511615512637, "topic": "sensortag/BATTERY"}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [19.28125, 13.84375], "timestamp": 1511615512973, "topic": "sensortag/TEMPERATURE"}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [19.38, 1009.04], "timestamp": 1511615513379, "topic": "sensortag/BAROMETER"}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.160400390625, -0.002685546875, -1.00830078125], "timestamp": 1511615513717, "topic": "sensortag/ACCELEROMETER"}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [65.97313797313797, 60.275457875457874, -501.8456654456654], "timestamp": 1511615514122, "topic": "sensortag/MAGNETOMETER"}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [6.61468505859375, -5.67626953125, -5.2032470703125], "timestamp": 1511615514459, "topic": "sensortag/GYROSCOPE"}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.4, "timestamp": 1511615514728, "topic": "sensortag/LIGHT"}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76, "timestamp": 1511615515336, "topic": "sensortag/BATTERY"}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [19.28125, 14.625], "timestamp": 1511615515673, "topic": "sensortag/TEMPERATURE"}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [19.38, 1009.0], "timestamp": 1511615516281, "topic": "sensortag/BAROMETER"}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.173095703125, 0.05859375, -1.002685546875], "timestamp": 1511615516552, "topic": "sensortag/ACCELEROMETER"}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [66.42295482295482, 57.57655677655677, -504.0947496947497], "timestamp": 1511615516889, "topic": "sensortag/MAGNETOMETER"}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [6.40106201171875, -5.828857421875, -7.1563720703125], "timestamp": 1511615517294, "topic": "sensortag/GYROSCOPE"}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.48, "timestamp": 1511615517563, "topic": "sensortag/LIGHT"}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76, "timestamp": 1511615517901, "topic": "sensortag/BATTERY"}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [19.28125, 14.4375], "timestamp": 1511615518306, "topic": "sensortag/TEMPERATURE"}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [19.39, 1009.04], "timestamp": 1511615518711, "topic": "sensortag/BAROMETER"}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.1640625, 0.05224609375, -0.996337890625], "timestamp": 1511615518982, "topic": "sensortag/ACCELEROMETER"}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [67.02271062271062, 61.32503052503052, -501.8456654456654], "timestamp": 1511615519252, "topic": "sensortag/MAGNETOMETER"}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [5.16510009765625, -5.95855712890625, -6.29425048828125], "timestamp": 1511615519589, "topic": "sensortag/GYROSCOPE"}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.4, "timestamp": 1511615519926, "topic": "sensortag/LIGHT"}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76, "timestamp": 1511615520196, "topic": "sensortag/BATTERY"}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [19.28125, 14.09375], "timestamp": 1511615520601, "topic": "sensortag/TEMPERATURE"}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [19.38, 1009.0], "timestamp": 1511615521074, "topic": "sensortag/BAROMETER"}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.130615234375, 0.044189453125, -0.984375], "timestamp": 1511615521479, "topic": "sensortag/ACCELEROMETER"}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [66.72283272283272, 59.52576312576312, -503.195115995116], "timestamp": 1511615521817, "topic": "sensortag/MAGNETOMETER"}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [5.62286376953125, -5.82122802734375, -5.77545166015625], "timestamp": 1511615522087, "topic": "sensortag/GYROSCOPE"}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.4, "timestamp": 1511615522423, "topic": "sensortag/LIGHT"}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76, "timestamp": 1511615522693, "topic": "sensortag/BATTERY"}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [19.3125, 13.875], "timestamp": 1511615523166, "topic": "sensortag/TEMPERATURE"}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [19.39, 1009.07], "timestamp": 1511615523571, "topic": "sensortag/BAROMETER"}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.07275390625, -0.023681640625, -0.949951171875], "timestamp": 1511615524044, "topic": "sensortag/ACCELEROMETER"}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [67.02271062271062, 59.52576312576312, -502.5953601953602], "timestamp": 1511615524314, "topic": "sensortag/MAGNETOMETER"}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [5.1116943359375, 6.65283203125, -2.0294189453125], "timestamp": 1511615524584, "topic": "sensortag/GYROSCOPE"}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.32, "timestamp": 1511615524988, "topic": "sensortag/LIGHT"}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76, "timestamp": 1511615525326, "topic": "sensortag/BATTERY"}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [19.3125, 13.78125], "timestamp": 1511615525663, "topic": "sensortag/TEMPERATURE"}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [19.39, 1009.06], "timestamp": 1511615526136, "topic": "sensortag/BAROMETER"}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.221923828125, 0.06982421875, -1.0859375], "timestamp": 1511615526407, "topic": "sensortag/ACCELEROMETER"}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [73.91990231990232, 71.22100122100122, -514.7404151404152], "timestamp": 1511615526677, "topic": "sensortag/MAGNETOMETER"}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [9.51385498046875, 3.0364990234375, -34.4390869140625], "timestamp": 1511615526947, "topic": "sensortag/GYROSCOPE"}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.48, "timestamp": 1511615527216, "topic": "sensortag/LIGHT"}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76, "timestamp": 1511615527553, "topic": "sensortag/BATTERY"}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [19.3125, 14.03125], "timestamp": 1511615527891, "topic": "sensortag/TEMPERATURE"}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [19.4, 1009.01], "timestamp": 1511615528363, "topic": "sensortag/BAROMETER"}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.193603515625, -0.006103515625, -1.059814453125], "timestamp": 1511615528634, "topic": "sensortag/ACCELEROMETER"}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [81.71672771672772, 62.97435897435897, -498.54700854700855], "timestamp": 1511615528972, "topic": "sensortag/MAGNETOMETER"}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [5.9356689453125, -29.6630859375, -9.033203125], "timestamp": 1511615529242, "topic": "sensortag/GYROSCOPE"}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.56, "timestamp": 1511615529511, "topic": "sensortag/LIGHT"}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76, "timestamp": 1511615529781, "topic": "sensortag/BATTERY"}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [19.34375, 14.09375], "timestamp": 1511615530119, "topic": "sensortag/TEMPERATURE"}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [19.42, 1009.08], "timestamp": 1511615530591, "topic": "sensortag/BAROMETER"}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.263427734375, 0.201416015625, -1.0390625], "timestamp": 1511615530862, "topic": "sensortag/ACCELEROMETER"}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [83.51599511599511, 51.129181929181925, -497.9472527472527], "timestamp": 1511615531132, "topic": "sensortag/MAGNETOMETER"}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [16.65496826171875, -100.830078125, -2.98309326171875], "timestamp": 1511615531402, "topic": "sensortag/GYROSCOPE"}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.64, "timestamp": 1511615531738, "topic": "sensortag/LIGHT"}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76, "timestamp": 1511615532008, "topic": "sensortag/BATTERY"}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [19.34375, 13.53125], "timestamp": 1511615532346, "topic": "sensortag/TEMPERATURE"}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [19.42, 1009.03], "timestamp": 1511615532819, "topic": "sensortag/BAROMETER"}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.0888671875, 0.025634765625, -0.96630859375], "timestamp": 1511615533089, "topic": "sensortag/ACCELEROMETER"}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [94.01172161172161, 70.02148962148962, -498.39706959706956], "timestamp": 1511615533629, "topic": "sensortag/MAGNETOMETER"}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [26.11541748046875, -17.79937744140625, -47.088623046875], "timestamp": 1511615533899, "topic": "sensortag/GYROSCOPE"}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.81, "timestamp": 1511615534168, "topic": "sensortag/LIGHT"}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76, "timestamp": 1511615534438, "topic": "sensortag/BATTERY"}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [19.375, 13.8125], "timestamp": 1511615534843, "topic": "sensortag/TEMPERATURE"}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [19.42, 1009.05], "timestamp": 1511615535316, "topic": "sensortag/BAROMETER"}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.1484375, -0.067138671875, -0.978759765625], "timestamp": 1511615535587, "topic": "sensortag/ACCELEROMETER"}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [79.61758241758241, 58.626129426129424, -494.7985347985348], "timestamp": 1511615535992, "topic": "sensortag/MAGNETOMETER"}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [8.01849365234375, 1.9073486328125, -6.6070556640625], "timestamp": 1511615536329, "topic": "sensortag/GYROSCOPE"}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 1.1300000000000001, "timestamp": 1511615536599, "topic": "sensortag/LIGHT"}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76, "timestamp": 1511615536868, "topic": "sensortag/BATTERY"}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [19.375, 14.9375], "timestamp": 1511615537206, "topic": "sensortag/TEMPERATURE"}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [19.44, 1009.04], "timestamp": 1511615537611, "topic": "sensortag/BAROMETER"}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.284912109375, -0.046875, -0.949951171875], "timestamp": 1511615537949, "topic": "sensortag/ACCELEROMETER"}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [76.16898656898657, 58.176312576312576, -499.74652014652014], "timestamp": 1511615538287, "topic": "sensortag/MAGNETOMETER"}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [19.23370361328125, -8.1939697265625, -66.741943359375], "timestamp": 1511615538557, "topic": "sensortag/GYROSCOPE"}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.24, "timestamp": 1511615538826, "topic": "sensortag/LIGHT"}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76, "timestamp": 1511615539096, "topic": "sensortag/BATTERY"}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [19.375, 14.875], "timestamp": 1511615539434, "topic": "sensortag/TEMPERATURE"}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [19.44, 1009.09], "timestamp": 1511615539838, "topic": "sensortag/BAROMETER"}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.13720703125, -0.053955078125, -0.896484375], "timestamp": 1511615540109, "topic": "sensortag/ACCELEROMETER"}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [67.17264957264958, 40.78339438339438, -523.4368742368742], "timestamp": 1511615540379, "topic": "sensortag/MAGNETOMETER"}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [2.62451171875, -4.99725341796875, -7.476806640625], "timestamp": 1511615540649, "topic": "sensortag/GYROSCOPE"}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.4, "timestamp": 1511615540986, "topic": "sensortag/LIGHT"}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76, "timestamp": 1511615541256, "topic": "sensortag/BATTERY"}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [19.375, 14.25], "timestamp": 1511615541594, "topic": "sensortag/TEMPERATURE"}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [19.46, 1009.09], "timestamp": 1511615541999, "topic": "sensortag/BAROMETER"}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.07568359375, -0.057373046875, -1.2080078125], "timestamp": 1511615542404, "topic": "sensortag/ACCELEROMETER"}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [75.11941391941392, 47.83052503052503, -510.8420024420024], "timestamp": 1511615542674, "topic": "sensortag/MAGNETOMETER"}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [2.9754638671875, 81.1767578125, 2.7923583984375], "timestamp": 1511615542944, "topic": "sensortag/GYROSCOPE"}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.24, "timestamp": 1511615543213, "topic": "sensortag/LIGHT"}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76, "timestamp": 1511615543483, "topic": "sensortag/BATTERY"}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [19.375, 14.0625], "timestamp": 1511615543888, "topic": "sensortag/TEMPERATURE"}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [19.43, 1008.98], "timestamp": 1511615544294, "topic": "sensortag/BAROMETER"}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.345458984375, 0.060546875, -0.91845703125], "timestamp": 1511615544564, "topic": "sensortag/ACCELEROMETER"}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [65.82319902319902, 53.67814407814408, -502.7452991452991], "timestamp": 1511615544902, "topic": "sensortag/MAGNETOMETER"}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [5.3863525390625, -2.44903564453125, -44.10552978515625], "timestamp": 1511615545172, "topic": "sensortag/GYROSCOPE"}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.4, "timestamp": 1511615545508, "topic": "sensortag/LIGHT"}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76, "timestamp": 1511615545779, "topic": "sensortag/BATTERY"}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [19.375, 13.75], "timestamp": 1511615546116, "topic": "sensortag/TEMPERATURE"}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [19.46, 1009.06], "timestamp": 1511615546521, "topic": "sensortag/BAROMETER"}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.12744140625, -0.151611328125, -1.119873046875], "timestamp": 1511615546792, "topic": "sensortag/ACCELEROMETER"}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [56.07716727716728, 70.32136752136752, -518.3389499389499], "timestamp": 1511615547062, "topic": "sensortag/MAGNETOMETER"}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [9.83428955078125, -4.98199462890625, -22.0947265625], "timestamp": 1511615547399, "topic": "sensortag/GYROSCOPE"}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.32, "timestamp": 1511615547668, "topic": "sensortag/LIGHT"}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76, "timestamp": 1511615547938, "topic": "sensortag/BATTERY"}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [19.375, 13.90625], "timestamp": 1511615548344, "topic": "sensortag/TEMPERATURE"}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [19.45, 1009.15], "timestamp": 1511615548816, "topic": "sensortag/BAROMETER"}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.168701171875, -0.072265625, -0.87109375], "timestamp": 1511615549087, "topic": "sensortag/ACCELEROMETER"}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [72.27057387057387, 64.92356532356533, -519.3885225885226], "timestamp": 1511615549424, "topic": "sensortag/MAGNETOMETER"}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [5.523681640625, -4.119873046875, -1.556396484375], "timestamp": 1511615549694, "topic": "sensortag/GYROSCOPE"}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.4, "timestamp": 1511615550032, "topic": "sensortag/LIGHT"}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76, "timestamp": 1511615550301, "topic": "sensortag/BATTERY"}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [19.375, 13.5625], "timestamp": 1511615550706, "topic": "sensortag/TEMPERATURE"}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [19.44, 1009.1], "timestamp": 1511615551112, "topic": "sensortag/BAROMETER"}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.25341796875, 0.2578125, -0.953369140625], "timestamp": 1511615551449, "topic": "sensortag/ACCELEROMETER"}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [82.46642246642246, 66.27301587301586, -502.7452991452991], "timestamp": 1511615551719, "topic": "sensortag/MAGNETOMETER"}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [6.40869140625, -4.96673583984375, -14.03045654296875], "timestamp": 1511615552124, "topic": "sensortag/GYROSCOPE"}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.24, "timestamp": 1511615552393, "topic": "sensortag/LIGHT"}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76, "timestamp": 1511615552731, "topic": "sensortag/BATTERY"}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [19.375, 14.09375], "timestamp": 1511615553069, "topic": "sensortag/TEMPERATURE"}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [19.46, 1009.08], "timestamp": 1511615553608, "topic": "sensortag/BAROMETER"}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.190185546875, -0.23095703125, -0.608642578125], "timestamp": 1511615553879, "topic": "sensortag/ACCELEROMETER"}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [86.21489621489621, 70.32136752136752, -508.74285714285713], "timestamp": 1511615554149, "topic": "sensortag/MAGNETOMETER"}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [31.88323974609375, -13.7176513671875, -37.4603271484375], "timestamp": 1511615554419, "topic": "sensortag/GYROSCOPE"}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.48, "timestamp": 1511615554756, "topic": "sensortag/LIGHT"}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76, "timestamp": 1511615555026, "topic": "sensortag/BATTERY"}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [19.40625, 13.75], "timestamp": 1511615555364, "topic": "sensortag/TEMPERATURE"}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [19.46, 1009.04], "timestamp": 1511615555836, "topic": "sensortag/BAROMETER"}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.14794921875, -0.041259765625, -1.06396484375], "timestamp": 1511615556174, "topic": "sensortag/ACCELEROMETER"}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [83.36605616605617, 75.26935286935287, -492.8493284493284], "timestamp": 1511615556444, "topic": "sensortag/MAGNETOMETER"}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [7.4615478515625, -25.82550048828125, -24.7955322265625], "timestamp": 1511615556714, "topic": "sensortag/GYROSCOPE"}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.56, "timestamp": 1511615556983, "topic": "sensortag/LIGHT"}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76, "timestamp": 1511615557254, "topic": "sensortag/BATTERY"}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [19.4375, 14.65625], "timestamp": 1511615557591, "topic": "sensortag/TEMPERATURE"}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [19.49, 1009.02], "timestamp": 1511615557996, "topic": "sensortag/BAROMETER"}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [-0.2890625, 0.421875, -0.22216796875], "timestamp": 1511615558267, "topic": "sensortag/ACCELEROMETER"}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [91.9125763125763, 51.429059829059824, -497.04761904761904], "timestamp": 1511615558604, "topic": "sensortag/MAGNETOMETER"}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [5.79071044921875, -50.445556640625, -24.22332763671875], "timestamp": 1511615558942, "topic": "sensortag/GYROSCOPE"}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.56, "timestamp": 1511615559211, "topic": "sensortag/LIGHT"}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76, "timestamp": 1511615559482, "topic": "sensortag/BATTERY"}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [19.4375, 13.75], "timestamp": 1511615559819, "topic": "sensortag/TEMPERATURE"}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [19.47, 1009.04], "timestamp": 1511615560224, "topic": "sensortag/BAROMETER"}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.07861328125, -0.0146484375, -0.847900390625], "timestamp": 1511615560494, "topic": "sensortag/ACCELEROMETER"}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [90.11330891330891, 68.52210012210011, -498.0971916971917], "timestamp": 1511615560764, "topic": "sensortag/MAGNETOMETER"}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [14.0228271484375, 3.936767578125, -46.7529296875], "timestamp": 1511615561034, "topic": "sensortag/GYROSCOPE"}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 1.04, "timestamp": 1511615561304, "topic": "sensortag/LIGHT"}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76, "timestamp": 1511615561573, "topic": "sensortag/BATTERY"}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [19.4375, 14.21875], "timestamp": 1511615561911, "topic": "sensortag/TEMPERATURE"}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [19.48, 1009.07], "timestamp": 1511615562384, "topic": "sensortag/BAROMETER"}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.270263671875, 0.036376953125, -1.2314453125], "timestamp": 1511615562654, "topic": "sensortag/ACCELEROMETER"}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [83.36605616605617, 61.32503052503052, -494.34871794871793], "timestamp": 1511615562924, "topic": "sensortag/MAGNETOMETER"}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [-0.08392333984375, -12.29095458984375, -0.81634521484375], "timestamp": 1511615563194, "topic": "sensortag/GYROSCOPE"}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 1.37, "timestamp": 1511615563531, "topic": "sensortag/LIGHT"}
+{"sensorType": "BATTERY", "valueLength": 1, "values": 76, "timestamp": 1511615563801, "topic": "sensortag/BATTERY"}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [19.4375, 14.875], "timestamp": 1511615564206, "topic": "sensortag/TEMPERATURE"}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [19.48, 1009.07], "timestamp": 1511615564881, "topic": "sensortag/BAROMETER"}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.07470703125, 0.08154296875, -0.998291015625], "timestamp": 1511615565219, "topic": "sensortag/ACCELEROMETER"}

@@ -1,0 +1,4 @@
+eth.accounts
+eth.blockNumber
+eth.accounts
+eth.contract(contract_interface['abi'], bytecode=contract_interface['bin'])

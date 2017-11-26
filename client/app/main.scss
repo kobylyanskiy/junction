@@ -1,0 +1,43 @@
+$windowMaxWidth: 800px;
+$searchPanelWidth: 300px !global;
+
+
+$fa-font-path: "~font-awesome/fonts";
+//@import "~font-awesome/scss/font-awesome";
+@import "~bootstrap/dist/css/bootstrap.css";
+
+// default
+@import './colors.scss';
+
+// components
+@import "./components/header/header.scss";
+@import "./components/product-catalog/product-catalog.scss";
+@import './components/product-list/product-list.scss';
+@import './components/product-new/product-new.scss';
+@import './components/hub-new/hub-new.scss';
+@import './components/transportation-description/transportation-description.scss';
+@import './components/MapBox/map-box.scss';
+@import './components/travel-map/travel-map.scss';
+
+
+* {
+	/*Reset's every elements apperance*/
+	background: none repeat scroll 0 0 transparent;
+	border: medium none;
+	border-spacing: 0;
+	font-family: 'PT Sans Narrow',sans-serif;
+	font-size: 16px;
+	font-weight: normal;
+	list-style: none outside none;
+	margin: 0;
+	padding: 0;
+	text-decoration: none;
+	text-indent: 0;
+}
+body{
+	min-height: 100vh;
+	min-width: 800px;
+}
+.template{
+	text-align: center;
+}

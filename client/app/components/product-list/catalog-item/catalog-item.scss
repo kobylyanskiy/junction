@@ -1,0 +1,38 @@
+.catalog-item {
+  display: flex;
+  height: 55px;
+  padding: 10px;
+
+  &.active {
+    background-color: #3a6d99;
+    &:hover {
+      background-color: #3a6d99;
+    }
+  }
+  &:hover {
+    background-color: #f2f6fa;
+  }
+
+  .transportation-status {
+    align-self: center;
+    width: 10%;
+    .green {
+      color: green;
+    }
+    .yellow {
+      color: yellow;
+    }
+  }
+  .transportation-message {
+    align-self: center;
+    width: 70%;
+  }
+  .transportation-meta {
+    align-self: center;
+    width: 20%;
+    .transportation-last-update {
+      font-size: 12px;
+      color: #bfbfbf;
+    }
+  }
+}

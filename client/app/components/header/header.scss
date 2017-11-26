@@ -1,0 +1,23 @@
+@import './hamburger/hamburder';
+
+.header-wrap{
+  background-color: $header_color;
+  height: 48px;
+  //overflow: hidden;
+}
+.header-logo-wrap, .header-main-wrap{
+  float:left;
+  height: 100%;
+}
+.header-logo-wrap{
+  width: $searchPanelWidth;
+}
+.header-main-wrap {
+  width: calc(100% - 300px);
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-left: 20px;
+  color: white;
+  font-weight: 700;
+}

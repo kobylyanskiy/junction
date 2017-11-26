@@ -1,0 +1,22 @@
+.transportation-info {
+  width: calc(100% - 300px);
+}
+
+.transportation-description-empty, .transportation-description {
+  height: 100%;
+  width: 100%;
+}
+.transportation-description-empty {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.transportation-description-content {
+  display: flex;
+  .column{
+    width: 50%  ;
+  }
+  .toggle-btn {
+    width: 90%;
+  }
+}

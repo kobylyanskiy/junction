@@ -1,0 +1,32 @@
+$grey: #e0e0e0;
+$dark_grey: #a0a0a0;
+
+.catalog-search {
+  padding: 10px;
+  border-right: 2px solid #f0f0f0;
+  .search-icon {
+    position: absolute;
+    margin-top: 8px;
+    margin-left: 12px;
+    transform: rotateY(180deg);
+    color: $dark_grey;
+  }
+  .clear-search {
+    position: absolute;
+    margin-left: -22px;
+    margin-top: 6px;
+    color: $dark_grey;
+  }
+  &> input {
+    width: 100%;
+    height: 34px;
+    padding: 10px 30px 10px 35px;
+    background-color: $grey;
+    font-size: 14px;
+    &:focus {
+      background: transparent;
+      border: 1px solid $grey;
+      outline: none;
+    }
+  }
+}

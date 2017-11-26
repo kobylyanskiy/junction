@@ -1,0 +1,106 @@
+.hamburger {
+  padding: 0 20px;
+  #dropdown-size-large {
+    padding-top: 13px;
+    padding-left: 49px;
+    border: 0;
+    background: transparent;
+    color: white;
+    &:hover, &:focus, &:active {
+      box-shadow: none;
+      outline: none;
+    }
+    .caret {
+      border: 0;
+    }
+  }
+
+  @import url(https://fonts.googleapis.com/css?family=Lato:400,300,700,900);
+
+
+  body {
+    font-family: "Lato", sans-serif;
+    overflow:hidden;
+    transition: background-color .5s;
+  }
+
+  .navigation {
+    width: 100%;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    left: 0;
+    background-color: #000040;
+    box-shadow: 0 4px 4px -3px #232323;
+    -moz-box-shadow: 0 4px 4px -3px #232323;
+    -webkit-box-shadow: 0 4px 4px -3px #232323;
+    overflow: hidden;
+    transition: all 0.4s ease-in-out;
+    padding-top: 0px;
+  }
+
+  .navigation a {
+    text-decoration: none;
+  }
+
+  .navigation ul {
+    margin-top:30px;
+    text-align:center;
+    list-style:none;
+    margin-left:auto;
+    margin-right:auto;
+  }
+
+
+  .menulist {
+    width:200px;
+  }
+
+
+  .logo {
+    text-align:center;
+    margin:0 auto;
+  }
+
+  .line1, .line2, .line3 {
+    margin-top:5px;
+    background-color:#fff;
+    width:25px;
+    height:3px;
+    display:block;
+    position:relative;
+    opacity:1.0;
+    border-radius:15%;
+    transition: all .3s;
+  }
+
+  .line1.active {
+    transform: rotate(270deg);
+    opacity:0.0;
+    top:5px;
+  }
+
+  .line2.active {
+    transform: rotate(45deg)
+  }
+
+  .line3.active {
+    transform: rotate(-45deg);
+    top:-7px;
+  }
+
+  #closebtn {
+    height:25px;
+    width:25px;
+    position: absolute;
+    text-decoration:none;
+    top: 10px;
+    left: 25px;
+    font-size: 36px !important;
+    margin-right: 50px;
+    z-index:100;
+    color:#fff;
+    cursor:pointer;
+    trainsition: background-position .3s;
+  }
+}
